@@ -5,7 +5,7 @@ https://github.com/zLeonardoIshida
 # 📖 Summary:
 Practicing the implementation of Abstract Data Types (ADTs) in C.
   
-  :warning: CODE IN PORTUGUESE :brazil:
+  :warning: CODE IN PORTUGUESE 🇵🇹 :brazil:
   
 # Projects:
 - `Travelling Salesman Problem`: "simple" solution to this problem using linked lists. 
