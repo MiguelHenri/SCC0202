@@ -1,7 +1,7 @@
 # 🔗 SCC0202
 Algorithms and Data Structures I
 # 🤝 Contributor
-https://github.com/zLeonardoIshida
+https://github.com/LeonardoIshida
 # 📖 Summary:
 Practicing the implementation of Abstract Data Types (ADTs) in C.
   
